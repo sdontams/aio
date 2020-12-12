@@ -1,0 +1,3 @@
+wmi disk manament module
+
+https://github.com/Infinidat/infi.diskmanagement/blob/develop/src/infi/diskmanagement/disk/__init__.py
